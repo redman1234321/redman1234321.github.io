@@ -1,8 +1,24 @@
 body{
-    background-image: url("https://cdn.britannica.com/88/102888-050-BA3FF3D2/Crater-Lake-Oregon.jpg");
+   background-color: #4c4c4c;
+
+}
+h1{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 86px;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 43px;
+
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
 
 }
 .main{
-background-color: aliceblue;
+background-color:aliceblue;
 
 }
