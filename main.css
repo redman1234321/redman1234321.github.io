@@ -28,6 +28,8 @@ ul{
 }
 
 .main{
+   background-image: url('mustang.jpg');
+
 list-style-type: none;
 list-style: none;
 back
