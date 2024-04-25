@@ -3,7 +3,7 @@ body{
    background-image: url('mustang.jpg');
 }
 h1{
-
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 86px;
 }
