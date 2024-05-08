@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Jaehoon Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "South Korean Dev Made in Japan. Love Cars, but Hate EVs."
+  location         : "Porscheplatz 1 in 70435 Stuttgart, Germany."
   email            :
   links:
     - label: "Email"
