@@ -1,0 +1,10 @@
+remote_theme : daattali/beautiful-jekyll
+
+
+locale                   : "en-US"
+title                    : "redman1234321"
+title_separator          : "-"
+name                     : "Jaehoon Kim"
+description              : "All about me"
+url                      : "https://redman1234321.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
