@@ -1,6 +1,6 @@
 ---
 title: "Interests"
-date: 2024-05-08 16:31:00
+date: 2024-05-08 16:20:00
 categories: jekyll update
 ---
 I am currently highly interested in Medical Data Engineering. I'm keeping my eye on medical data companies such as Vuno, Lunit. My goal is to 
